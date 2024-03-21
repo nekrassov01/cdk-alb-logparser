@@ -1,8 +1,8 @@
 {
-  "name": "cdk-dr-sample",
+  "name": "cdk-alb-logparser",
   "version": "0.1.0",
   "bin": {
-    "cdk-dr-sample": "bin/main.js"
+    "cdk-alb-logparser": "bin/main.js"
   },
   "scripts": {
     "build": "tsc",
